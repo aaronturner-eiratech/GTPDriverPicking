@@ -1,0 +1,167 @@
+{
+    "layout": {
+        "id": "1234",
+        "info": "all measurements given in cms.",
+        "height": 2100,
+        "width": 3900,
+        "positon": "front",
+        "rows": [
+            {
+                "height": 420,
+                "row_id": "A",
+                "cells": [
+                    {
+                        "width": 975,
+                        "cell_id": "1",
+                        "tote_id": "1",
+                        "van_id": "van_1",
+                        "active": true
+                    }, {
+                        "width": 975,
+                        "cell_id": "2",
+                        "tote_id": "2",
+                        "van_id": "van_1",
+                        "active": true
+                    },
+                    {
+                        "width": 975,
+                        "cell_id": "11",
+                        "tote_id": "11",
+                        "van_id": "van_1",
+                        "active": false
+                    }, {
+                        "width": 975,
+                        "cell_id": "22",
+                        "tote_id": "22",
+                        "van_id": "van_1",
+                        "active": false
+                    }
+                ]
+            }, {
+                "height": 420,
+                "row_id": "B",
+                "cells": [
+                    {
+                        "width": 975,
+                        "cell_id": "3",
+                        "tote_id": "3",
+                        "van_id": "van_1",
+                        "active": true
+                    }, {
+                        "width": 975,
+                        "cell_id": "4",
+                        "tote_id": "4",
+                        "van_id": "van_1",
+                        "active": true
+                    },
+                    {
+                        "width": 975,
+                        "cell_id": "33",
+                        "tote_id": "33",
+                        "van_id": "van_1",
+                        "active": false
+                    }, {
+                        "width": 975,
+                        "cell_id": "44",
+                        "tote_id": "44",
+                        "van_id": "van_1",
+                        "active": false
+                    }
+                ]
+            }, {
+                "height": 420,
+                "row_id": "C",
+                "cells": [
+                    {
+                        "width": 975,
+                        "cell_id": "5",
+                        "tote_id": "5",
+                        "van_id": "van_1",
+                        "active": true
+                    }, {
+                        "width": 975,
+                        "cell_id": "6",
+                        "tote_id": "6",
+                        "van_id": "van_1",
+                        "active": true
+                    },
+                    {
+                        "width": 975,
+                        "cell_id": "55",
+                        "tote_id": "55",
+                        "van_id": "van_1",
+                        "active": false
+                    }, {
+                        "width": 975,
+                        "cell_id": "66",
+                        "tote_id": "66",
+                        "van_id": "van_1",
+                        "active": false
+                    }
+                ]
+            }, {
+                "height": 420,
+                "row_id": "D",
+                "cells": [
+                    {
+                        "width": 975,
+                        "cell_id": "7",
+                        "tote_id": "7",
+                        "van_id": "van_1",
+                        "active": true
+                    }, {
+                        "width": 975,
+                        "cell_id": "8",
+                        "tote_id": "8",
+                        "van_id": "van_1",
+                        "active": true
+                    },
+                    {
+                        "width": 975,
+                        "cell_id": "77",
+                        "tote_id": "77",
+                        "van_id": "van_1",
+                        "active": false
+                    }, {
+                        "width": 975,
+                        "cell_id": "88",
+                        "tote_id": "88",
+                        "van_id": "van_1",
+                        "active": false
+                    }
+                ]
+            }, {
+                "height": 420,
+                "row_id": "E",
+                "cells": [
+                    {
+                        "width": 1950,
+                        "cell_id": "9",
+                        "tote_id": "9",
+                        "van_id": "van_1",
+                        "active": true
+                    }, {
+                        "width": 1950,
+                        "cell_id": "10",
+                        "tote_id": "10",
+                        "van_id": "van_1",
+                        "active": true
+                    },
+                    {
+                        "width": 975,
+                        "cell_id": "99",
+                        "tote_id": "99",
+                        "van_id": "van_1",
+                        "active": false
+                    }, {
+                        "width": 975,
+                        "cell_id": "100",
+                        "tote_id": "100",
+                        "van_id": "van_1",
+                        "active": false
+                    }
+                ]
+            }
+        ]
+    }
+}
